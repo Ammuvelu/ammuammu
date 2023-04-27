@@ -1,2 +1,2 @@
-# ammuammu
-new repo
+# DemoRepo
+demo for learning git, GitHub.
